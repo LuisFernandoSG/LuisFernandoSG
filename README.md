@@ -72,7 +72,7 @@ Trabajo con **CRC Coding S.A.**, empresa costarricense especializada en solucion
 
 | Proyecto | Descripción | Stack | Estado |
 |---|---|---|---|
-| **[GalloFilms](https://github.com/LuisFS8/gallofilms)** | App full stack para rastrear películas, series y anime. Integra TMDB API con sistema de listas y calificaciones. | React · Node.js · MongoDB · TMDB API | 🟢 Live |
+| **[GalloFilms](https://movies.gallofilms.site/)** | App full stack para rastrear películas, series y anime. Integra TMDB API con sistema de listas y calificaciones. | React · Node.js · MongoDB · TMDB API | 🟢 Live |
 
 > 💡 Todos mis proyectos están self-hosted en **Oracle Cloud Free Tier** (ARM, 4 OCPUs, 24GB RAM) con Cloudflare Tunnel y Dokploy.
 
